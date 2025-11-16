@@ -10,8 +10,9 @@
 
 ###
 
+<!--
 <img align="right" height="150" src="https://media1.tenor.com/m/QHp-YQCKnHMAAAAC/cat-keyboard.gif"  />
-
+-->>
 ###
 
 <div align="left">
